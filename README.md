@@ -20,13 +20,3 @@
 | 3 | [Technical Documentation](my-web-projects/technical-documentation/) | [![Demo](https://via.placeholder.com/300x200/FF9800/ffffff?text=Documentation)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/technical-documentation/) | Техническая документация по основам JavaScript с навигацией и примерами |
 | 4 | [Personal Portfolio](my-web-projects/personal-portfolio/) | [![Demo](https://via.placeholder.com/300x200/E91E63/ffffff?text=Portfolio)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio/) | Личное портфолио веб-разработчика с проектами по ML, Java и SQL |
 | 5 | [Product Landing Page](my-web-projects/product-landing-page/) | [![Demo](https://via.placeholder.com/300x200/9C27B0/ffffff?text=Landing)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page/) | Лендинг продукта EcoBloom — умного устройства для ухода за растениями |
-
-> **📌 Примечание:** Для Survey Form демо недоступно онлайн. Все остальные демо **проверены — работают!** Код-ссылки ведут в папки репозитория.
-
----
-
-## 🚀 Бысткий старт
-
-1. **Клонируй репозиторий:**
-   ```bash
-   git clone https://github.com/dungeon-meowster/Responsive-Web-Design.git
