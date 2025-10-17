@@ -5,6 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certified-green.svg)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+**Сертификат по Responsive Web Design от FreeCodeCamp**
+![Моё изображение](image_2025-10-17_18-17-09.png)
+
 **Сертификационные проекты по Responsive Web Design от FreeCodeCamp**
 
 Портфолио адаптивных веб-страниц, созданных в рамках курса. Все проекты полностью responsive и работают на любых устройствах!
