@@ -21,8 +21,6 @@
 | 4 | [Personal Portfolio](personal-portfolio/) | [![Demo](https://via.placeholder.com/300x200/E91E63/ffffff?text=Portfolio)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio) | Личное портфолио веб-разработчика с проектами по ML, Java и SQL |
 | 5 | [Product Landing Page](product-landing-page/) | [![Demo](https://via.placeholder.com/300x200/9C27B0/ffffff?text=Landing)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page) | Лендинг продукта EcoBloom — умного устройства для ухода за растениями |
 
-> **📌 Примечание:** Для Survey Form демо недоступно онлайн (404). Добавь index.html и настрой GitHub Pages, если нужно. Замени плейсхолдеры на реальные скриншоты (например, через imgur).
-
 ---
 
 ## 🚀 Бысткий старт
