@@ -8,35 +8,35 @@
    Форма опроса для сбора отзывов о продукте с различными типами полей ввода.  
    - **Технологии**: HTML5, CSS3.  
    - **Особенности**: Валидация форм, адаптивный дизайн, современный стиль.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/survey-form)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/survey-form)  
    - [Код](./survey-form)
 
 2. **Build a Tribute Page**  
    Страница, посвящённая Алану Тьюрингу, отцу компьютерных наук и искусственного интеллекта.  
    - **Технологии**: HTML5, CSS3, Font Awesome, Google Fonts.  
    - **Особенности**: Адаптивный дизайн, анимации, временная шкала.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/tribute-page)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/tribute-page)  
    - [Код](./tribute-page)
 
 3. **Build a Technical Documentation Page**  
    Документация по основам JavaScript, организованная в виде одностраничного сайта с навигацией.  
    - **Технологии**: HTML5, CSS3, JavaScript, Google Fonts.  
    - **Особенности**: Фиксированная боковая панель, плавная прокрутка, адаптивность.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/technical-documentation)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/technical-documentation)  
    - [Код](./technical-documentation)
 
 4. **Build a Product Landing Page**  
    Лендинг для продукта EcoBloom — умной системы ухода за растениями.  
    - **Технологии**: HTML5, CSS3, YouTube API (для видео).  
    - **Особенности**: Фиксированная навигация, секции с ценами, форма подписки.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/product-landing-page)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page)  
    - [Код](./product-landing-page)
 
 5. **Build a Personal Portfolio Webpage**  
    Портфолио, демонстрирующее мои проекты по ML, Java, SQL и другим языкам программирования.  
    - **Технологии**: HTML5, CSS3, Google Fonts, Font Awesome.  
    - **Особенности**: Адаптивная навигация, категоризация проектов, анимации.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/personal-portfolio)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio)  
    - [Код](./personal-portfolio)
 
 ## Как запустить
