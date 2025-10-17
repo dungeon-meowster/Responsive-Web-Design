@@ -8,7 +8,7 @@
    Форма опроса для сбора отзывов о продукте с различными типами полей ввода.  
    - **Технологии**: HTML5, CSS3.  
    - **Особенности**: Валидация форм, адаптивный дизайн, современный стиль.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/survey-form)  
+   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/survey-form)  
    - [Код](./survey-form)
 
 2. **Build a Tribute Page**  
