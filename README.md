@@ -1,46 +1,30 @@
-# Мои веб-проекты: Responsive Web Design
+<div align="center">
 
-Этот репозиторий содержит проекты, созданные в рамках курса **[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** от freeCodeCamp. Курс помог мне освоить основы HTML и CSS, включая адаптивный дизайн, работу с формами, стилизацию и создание современных веб-страниц. Здесь представлены пять проектов, демонстрирующие мои навыки в создании веб-интерфейсов.
+# 🎨 Responsive Web Design Projects
 
-## Проекты
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certified-green.svg)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-1. **Build a Survey Form**  
-   Форма опроса для сбора отзывов о продукте с различными типами полей ввода.  
-   - **Технологии**: HTML5, CSS3.  
-   - **Особенности**: Валидация форм, адаптивный дизайн, современный стиль.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/survey-form)  
-   - [Код](./survey-form)
+**Сертификационные проекты по Responsive Web Design от FreeCodeCamp**
 
-2. **Build a Tribute Page**  
-   Страница, посвящённая Алану Тьюрингу, отцу компьютерных наук и искусственного интеллекта.  
-   - **Технологии**: HTML5, CSS3, Font Awesome, Google Fonts.  
-   - **Особенности**: Адаптивный дизайн, анимации, временная шкала.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/tribute-page)  
-   - [Код](./tribute-page)
+Портфолио адаптивных веб-страниц, созданных в рамках курса Responsive Web Design. Все проекты полностью responsive и работают на любых устройствах!
 
-3. **Build a Technical Documentation Page**  
-   Документация по основам JavaScript, организованная в виде одностраничного сайта с навигацией.  
-   - **Технологии**: HTML5, CSS3, JavaScript, Google Fonts.  
-   - **Особенности**: Фиксированная боковая панель, плавная прокрутка, адаптивность.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/technical-documentation)  
-   - [Код](./technical-documentation)
+</div>
 
-4. **Build a Product Landing Page**  
-   Лендинг для продукта EcoBloom — умной системы ухода за растениями.  
-   - **Технологии**: HTML5, CSS3, YouTube API (для видео).  
-   - **Особенности**: Фиксированная навигация, секции с ценами, форма подписки.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page)  
-   - [Код](./product-landing-page)
+## 📋 Содержание
 
-5. **Build a Personal Portfolio Webpage**  
-   Портфолио, демонстрирующее мои проекты по ML, Java, SQL и другим языкам программирования.  
-   - **Технологии**: HTML5, CSS3, Google Fonts, Font Awesome.  
-   - **Особенности**: Адаптивная навигация, категоризация проектов, анимации.  
-   - [Демо](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio)  
-   - [Код](./personal-portfolio)
+| # | Проект | Demo | Описание |
+|---|--------|------|----------|
+| 1 | [Survey Form](survey-form/) | [![Demo](https://via.placeholder.com/300x200/4CAF50/ffffff?text=Survey+Form)](https://dungeon-meowster.github.io/Responsive-Web-Design/survey-form) | Форма обратной связи для сбора отзывов |
+| 2 | [Tribute Page](tribute-page/) | [![Demo](https://via.placeholder.com/300x200/2196F3/ffffff?text=Tribute+Page)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/tribute-page) | Страница памяти, посвящённая Алану Тьюрингу |
+| 3 | [Technical Documentation](technical-documentation/) | [![Demo](https://via.placeholder.com/300x200/FF9800/ffffff?text=Documentation)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/technical-documentation) | Техническая документация по JavaScript с навигацией |
+| 4 | [Personal Portfolio](personal-portfolio/) | [![Demo](https://via.placeholder.com/300x200/E91E63/ffffff?text=Portfolio)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio) | Личное портфолио с проектами по ML, Java, SQL |
+| 5 | [Product Landing Page](product-landing-page/) | [![Demo](https://via.placeholder.com/300x200/9C27B0/ffffff?text=Landing)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page) | Лендинг продукта EcoBloom с формой и видео |
 
-## Как запустить
+---
 
-1. Склонируйте репозиторий:
+## 🚀 Бысткий старт
+
+1. **Клонируй репозиторий:**
    ```bash
    git clone https://github.com/dungeon-meowster/Responsive-Web-Design.git
