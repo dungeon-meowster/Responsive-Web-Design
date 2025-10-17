@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Опрос по отзывам о продукте</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">Опрос по отзывам о продукте</h1>
+        <p id="description">
+            Мы ценим ваше мнение! Пожалуйста, уделите минуту, чтобы поделиться своим опытом использования нашего продукта. 
+            Ваш отзыв помогает нам улучшаться и лучше вас обслуживать.
+        </p>
+    </header>
+
+    <form id="survey-form" action="#" method="post">
+        <div class="form-group">
+            <label id="name-label" for="name">Полное имя <span class="required">*</span></label>
+            <input 
+                type="text" 
+                id="name" 
+                name="name" 
+                placeholder="Введите ваше полное имя" 
+                required
+            >
+        </div>
+
+        <div class="form-group">
+            <label id="email-label" for="email">Адрес электронной почты <span class="required">*</span></label>
+            <input 
+                type="email" 
+                id="email" 
+                name="email" 
+                placeholder="Введите ваш адрес электронной почты" 
+                required
+            >
+        </div>
+
+        <div class="form-group">
+            <label id="number-label" for="number">Годы опыта <span class="required">*</span></label>
+            <input 
+                type="number" 
+                id="number" 
+                name="experience" 
+                min="0" 
+                max="50" 
+                placeholder="0" 
+                required
+            >
+            <small>От 0 до 50 лет</small>
+        </div>
+
+        <div class="form-group">
+            <label for="dropdown">Как вы узнали о нас?</label>
+            <select id="dropdown" name="referral" required>
+                <option value="" disabled selected>Выберите вариант</option>
+                <option value="friend">От друга или коллеги</option>
+                <option value="social">Социальные сети</option>
+                <option value="search">Поисковая система</option>
+                <option value="advertisement">Реклама</option>
+                <option value="other">Другое</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Общий уровень удовлетворенности <span class="required">*</span></label>
+            <div class="radio-group">
+                <label class="radio-label">
+                    <input type="radio" name="satisfaction" value="very-satisfied" required>
+                    Очень удовлетворен
+                </label>
+                <label class="radio-label">
+                    <input type="radio" name="satisfaction" value="satisfied" required>
+                    Удовлетворен
+                </label>
+                <label class="radio-label">
+                    <input type="radio" name="satisfaction" value="neutral" required>
+                    Нейтрально
+                </label>
+                <label class="radio-label">
+                    <input type="radio" name="satisfaction" value="dissatisfied" required>
+                    Неудовлетворен
+                </label>
+                <label class="radio-label">
+                    <input type="radio" name="satisfaction" value="very-dissatisfied" required>
+                    Очень неудовлетворен
+                </label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Какие функции вы используете чаще всего?</label>
+            <div class="checkbox-group">
+                <label class="checkbox-label">
+                    <input type="checkbox" name="features" value="dashboard">
+                    Аналитика панели управления
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" name="features" value="reports">
+                    Пользовательские отчеты
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" name="features" value="collaboration">
+                    Командная работа
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" name="features" value="automation">
+                    Инструменты автоматизации
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" name="features" value="mobile">
+                    Мобильное приложение
+                </label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="comments">Дополнительные комментарии или предложения</label>
+            <textarea 
+                id="comments" 
+                name="comments" 
+                rows="5" 
+                placeholder="Расскажите, что вам нравится в нашем продукте, или предложите улучшения..."
+            ></textarea>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" id="submit">
+                Отправить отзыв
+            </button>
+        </div>
+    </form>
+</body>
+</html>
