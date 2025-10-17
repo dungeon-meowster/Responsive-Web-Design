@@ -13,13 +13,13 @@
 
 ## 📋 Содержание
 
-| # | Проект | Demo | Описание |
-|---|--------|------|----------|
-| 1 | [Survey Form](survey-form/) | Локально (открой index.html) | Форма обратной связи для сбора отзывов пользователей |
-| 2 | [Tribute Page](tribute-page/) | [![Demo](https://via.placeholder.com/300x200/2196F3/ffffff?text=Tribute+Page)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/tribute-page) | Страница памяти, посвящённая Алану Тьюрингу — отцу компьютерных наук и ИИ |
-| 3 | [Technical Documentation](technical-documentation/) | [![Demo](https://via.placeholder.com/300x200/FF9800/ffffff?text=Documentation)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/technical-documentation) | Техническая документация по основам JavaScript с навигацией и примерами |
-| 4 | [Personal Portfolio](personal-portfolio/) | [![Demo](https://via.placeholder.com/300x200/E91E63/ffffff?text=Portfolio)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/personal-portfolio) | Личное портфолио веб-разработчика с проектами по ML, Java и SQL |
-| 5 | [Product Landing Page](product-landing-page/) | [![Demo](https://via.placeholder.com/300x200/9C27B0/ffffff?text=Landing)](https://dungeon-meowster.github.io/Responsive-Web-Design/my-web-projects/product-landing-page) | Лендинг продукта EcoBloom — умного устройства для ухода за растениями |
+| # | Проект | Описание |
+|---|--------|----------|
+| 1 | [Survey Form](survey-form/) |  Форма обратной связи для сбора отзывов пользователей |
+| 2 | [Tribute Page](tribute-page/) |Страница памяти, посвящённая Алану Тьюрингу — отцу компьютерных наук и ИИ |
+| 3 | [Technical Documentation](technical-documentation/) |  Техническая документация по основам JavaScript с навигацией и примерами |
+| 4 | [Personal Portfolio](personal-portfolio/) | Личное портфолио веб-разработчика с проектами по ML, Java и SQL |
+| 5 | [Product Landing Page](product-landing-page/) | Лендинг продукта EcoBloom — умного устройства для ухода за растениями |
 
 ---
 
